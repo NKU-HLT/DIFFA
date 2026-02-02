@@ -15,9 +15,12 @@ This repository provides the training data, checkpoints, inference scripts, and 
 ---
 
 ## 🔥 News
-- **2025.11.11**: DIFFA is accepted by AAAI 2026 !
-- **2025.08.25**: Released the DIFFA [checkpoint](https://huggingface.co/zhoujiaming777/DIFFA) and code!
-- **2025.07.25**: Our paper is released on [arXiv](https://arxiv.org/abs/2507.18452). 🎉  
+- **2026.01**: Our new paper **DIFFA-2** is now available on [arXiv](https://arxiv.org/abs/2601.23161v1). 🎉  
+  Code and checkpoints will be released soon.
+- **2025.11**: **DIFFA** has been accepted to **AAAI 2026**!
+- **2025.08**: Released the **DIFFA** [checkpoint](https://huggingface.co/zhoujiaming777/DIFFA) and code.
+- **2025.07**: Our paper is available on [arXiv](https://arxiv.org/abs/2507.18452). 🎉
+
 
 ---
 
