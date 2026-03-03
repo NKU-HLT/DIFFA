@@ -1,0 +1,13 @@
+data/*
+temp*
+exp/*
+*.pt
+rubbish/*
+trainer_output/*
+wandb/*
+exp*
+log*
+data_res
+rubbish
+.vscode
+debug*
