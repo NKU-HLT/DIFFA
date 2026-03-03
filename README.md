@@ -1,6 +1,7 @@
 #  <img src="assets/diffa_logo.png" alt="logo" width="80" style="vertical-align: middle;"/> DIFFA Series
 ## 🔥 News
-- **2026.01**: Our new paper **DIFFA-2** is now available on [arXiv](https://arxiv.org/abs/2601.23161v1). 🎉  Code and checkpoints of DIFFA-2 will be released soon.
+- **2026.03.03**:  Released the **DIFFA-2** [checkpoint](https://huggingface.co/zhoujiaming777/DIFFA-2) and code.
+- **2026.01**: Our new paper **DIFFA-2** is now available on [arXiv](https://arxiv.org/abs/2601.23161v1). 🎉
 - **2025.11**: **DIFFA** has been accepted to **AAAI 2026**!
 - **2025.08**: Released the **DIFFA** [checkpoint](https://huggingface.co/zhoujiaming777/DIFFA) and code.
 - **2025.07**: Our paper **DIFFA** is available on [arXiv](https://arxiv.org/abs/2507.18452). 🎉
