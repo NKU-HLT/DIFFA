@@ -1,5 +1,6 @@
 #  <img src="assets/diffa_logo.png" alt="logo" width="80" style="vertical-align: middle;"/> DIFFA Series
 ## 🔥 News
+- **2026.04.07**: **DIFFA-2** is accepted by **Findings of ACL 2026** !
 - **2026.03.03**:  Released the **DIFFA-2** [checkpoint](https://huggingface.co/zhoujiaming777/DIFFA-2) and code.
 - **2026.01**: Our new paper **DIFFA-2** is now available on [arXiv](https://arxiv.org/abs/2601.23161v1). 🎉
 - **2025.11**: **DIFFA** has been accepted to **AAAI 2026**!
@@ -8,7 +9,7 @@
 
 
 
-# DIFFA-2: A Practical Diffusion Large Language Model for General Audio Understanding
+# [Findings of ACL 2026] DIFFA-2: A Practical Diffusion Large Language Model for General Audio Understanding
 
 [![arXiv](https://img.shields.io/badge/Paper-arXiv-red.svg)](https://arxiv.org/abs/2601.23161v1)
 [![🤗 Hugging Face](https://img.shields.io/badge/🤗Hugging%20Face-DIFFA-FFEB3B)](https://huggingface.co/zhoujiaming777/DIFFA-2)
@@ -16,7 +17,7 @@
 
  In this paper, We introduce DIFFA-2, a practical diffusion-based LALM for general audio understanding. DIFFA-2 upgrades the speech encoder, employs dual semantic and acoustic adapters, and is trained with a four-stage curriculum that combines semantic and acoustic alignment, large-scale supervised fine-tuning, and variance-reduced preference optimization, using only fully open-source corpora. Experiments on MMSU, MMAU, and MMAR show that DIFFA-2 consistently improves over DIFFA and is competitive to strong AR LALMs under practical training budgets, supporting diffusion-based modeling is a viable backbone for large-scale audio understanding.
 
-# DIFFA: Large Language Diffusion Models Can Listen and Understand
+# [AAAI 2026] DIFFA: Large Language Diffusion Models Can Listen and Understand
 
 [![arXiv](https://img.shields.io/badge/Paper-arXiv-red.svg)](https://arxiv.org/abs/2507.18452)
 [![🤗 Hugging Face](https://img.shields.io/badge/🤗Hugging%20Face-DIFFA-FFEB3B)](https://huggingface.co/zhoujiaming777/DIFFA)

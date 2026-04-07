@@ -19,6 +19,11 @@
 
 ---
 
+## 🔥 News
+- **2026.4.7**: DIFFA-2 is accepted by Findings of ACL 2026 !
+
+---
+
 ## 🛠️ Installation
 
 To begin using DIFFA-2, it is recommended to set up a clean conda environment for managing dependencies.
